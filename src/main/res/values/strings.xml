@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">relays2</string>
+    <string name="title_activity_relay2">relay2</string>
+    <string name="title_activity_relay3">Relay3</string>
+</resources>
